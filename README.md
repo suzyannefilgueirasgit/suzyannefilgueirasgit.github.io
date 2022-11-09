@@ -1,2 +1,2 @@
 # suzyannefilgueirasgit.github.io
-Currículo do Jornada Dev
+Jornada Dev E.B.A.C. - Projeto da Aula1
